@@ -5,6 +5,9 @@
 -->
 ![urao](https://github-readme-stats.vercel.app/api?username=urao&show_icons=true&theme=tokyonight)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=urao)
+![](https://komarev.com/ghpvc/?username=urao)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jmumrao)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/manekaru/)
 
 Here are some ideas to get you started:
 
