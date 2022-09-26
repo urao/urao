@@ -11,6 +11,7 @@
 
 Here are some ideas to get you started:
 
+- Living at the intersection of containers/K8s, networking and security
 - 🔭 I’m currently working on Cloudifying things!!!
 - 🌱 I’m currently learning many things I hope
 - 👯 I’m looking to collaborate on Kubernetes / Argo / Ansible / Python 
